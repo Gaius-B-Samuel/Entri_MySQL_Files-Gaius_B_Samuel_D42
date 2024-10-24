@@ -9,6 +9,7 @@ Summary of File: DDL Commands
 - Renamed the table to CLASSTEN.
 - Deleted all rows using TRUNCATE.
 - Dropped the table using the DROP command.
+- PDF Output File Available
 
 
 Summary of File: DDL Constraints
@@ -18,3 +19,4 @@ Summary of File: DDL Constraints
 - The table was renamed to sales_orders.
 - 10 rows were inserted, and data was retrieved using a SELECT query.
 - An update operation was performed, and finally, the table was deleted using the DROP command.
+- PDF Output File Available
