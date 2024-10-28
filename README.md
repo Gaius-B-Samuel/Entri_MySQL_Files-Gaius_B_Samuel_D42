@@ -20,3 +20,12 @@ Summary of File: DDL Constraints
 - 10 rows were inserted, and data was retrieved using a SELECT query.
 - An update operation was performed, and finally, the table was deleted using the DROP command.
 - PDF Output File Available
+
+
+Summary of File: DML Commands
+- The Managers table was created with constraints like NOT NULL and CHECK.
+- 10 sample rows were inserted.
+- Queries were written to retrieve specific information like names, salaries, and departments.
+- We used conditional statements such as WHERE, BETWEEN, and != to filter data.
+- PDF Output File Available
+
