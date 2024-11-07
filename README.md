@@ -29,3 +29,7 @@ Summary of File: DML Commands
 - We used conditional statements such as WHERE, BETWEEN, and != to filter data.
 - PDF Output File Available
 
+
+Summary of File: Querying Data
+- These queries cover different SQL clauses and operators.
+- PDF Output File Available
