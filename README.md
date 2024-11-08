@@ -31,5 +31,16 @@ Summary of File: DML Commands
 
 
 Summary of File: Querying Data
-- These queries cover different SQL clauses and operators.
+- In this Fle, queries cover different SQL clauses and operators.
 - PDF Output File Available
+
+Summary of File: Sorting & Grouping Data
+- Files contains operations like substring extraction (LEFT)
+- Concatenation (CONCAT)
+- Aggregations (COUNT, MAX, MIN, SUM, AVG)
+- Sorting (ORDER BY)
+- Random ordering (RAND)
+- Grouping (GROUP BY)
+- Filtering (WHERE, HAVING, LIMIT)
+- PDF Output File Available
+
