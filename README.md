@@ -44,3 +44,14 @@ Summary of File: Sorting & Grouping Data
 - Filtering (WHERE, HAVING, LIMIT)
 - PDF Output File Available
 
+Summary of File: Joins & Union
+- Files contains INNER JOIN, LEFT JOIN, RIGHT JOIN to retrieve combined data from the Country and Persons tables, along with UNION and UNION ALL to handle duplicate and distinct values across tables.
+- The ROUND function is used to adjust numerical values in the Rating column.
+- PDF Output File Available
+
+Summary of File: Functions
+- ALTER TABLE is used to add a new column.
+- User-Defined Function (Calculate_Age) is created to calculate age from a DATE column.
+- Various String Functions like LENGTH, LEFT, UPPER, and LOWER are used to manipulate and display country names in different formats.
+- PDF Output File Available
+
