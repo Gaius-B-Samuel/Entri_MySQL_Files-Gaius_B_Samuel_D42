@@ -55,3 +55,7 @@ Summary of File: Functions
 - Various String Functions like LENGTH, LEFT, UPPER, and LOWER are used to manipulate and display country names in different formats.
 - PDF Output File Available
 
+Summary of File: Subqueries & Views
+- Queries handle all subqueries, aggregation, and views effectively
+- PDF Output File Available
+
