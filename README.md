@@ -59,3 +59,6 @@ Summary of File: Subqueries & Views
 - Queries handle all subqueries, aggregation, and views effectively
 - PDF Output File Available
 
+Summary of FIle: Stored Procedures
+-The stored procedures for the Worker table enable efficient and reusable database operations, ensuring better data management and consistency.
+- PDF Output File Available
