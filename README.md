@@ -60,5 +60,5 @@ Summary of File: Subqueries & Views
 - PDF Output File Available
 
 Summary of FIle: Stored Procedures
--The stored procedures for the Worker table enable efficient and reusable database operations, ensuring better data management and consistency.
+- The stored procedures for the Worker table enable efficient and reusable database operations, ensuring better data management and consistency.
 - PDF Output File Available
