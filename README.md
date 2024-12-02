@@ -62,3 +62,8 @@ Summary of File: Subqueries & Views
 Summary of FIle: Stored Procedures
 - The stored procedures for the Worker table enable efficient and reusable database operations, ensuring better data management and consistency.
 - PDF Output File Available
+
+Summary of FIle: Triggers
+- The effective use of triggers to automate database tasks and enforce data integrity.
+- The triggers implemented ensure data validation, such as preventing negative salary entries, and maintain audit logs for insert and delete actions.
+- PDF Output File Available
